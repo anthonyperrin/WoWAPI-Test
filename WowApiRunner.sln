@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWoWApi", "MyWoWApi\MyWoWApi.csproj", "{FAB1516E-3719-4006-AB37-718A12CDDA24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Runner", "ConsoleApp2\Runner.csproj", "{DDACD355-2AF9-405B-837F-9FE67D50F133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB1516E-3719-4006-AB37-718A12CDDA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB1516E-3719-4006-AB37-718A12CDDA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB1516E-3719-4006-AB37-718A12CDDA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB1516E-3719-4006-AB37-718A12CDDA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDACD355-2AF9-405B-837F-9FE67D50F133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDACD355-2AF9-405B-837F-9FE67D50F133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDACD355-2AF9-405B-837F-9FE67D50F133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDACD355-2AF9-405B-837F-9FE67D50F133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {673DA432-D49A-4801-8873-4EAE330A5E13}
+	EndGlobalSection
+EndGlobal
